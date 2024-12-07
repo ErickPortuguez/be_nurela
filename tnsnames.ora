@@ -1,0 +1,12 @@
+barbershop_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=g68dbac12225c6f_barbershop_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+barbershop_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=g68dbac12225c6f_barbershop_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+barbershop_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=g68dbac12225c6f_barbershop_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+barbershop_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=g68dbac12225c6f_barbershop_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+barbershop_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=g68dbac12225c6f_barbershop_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
